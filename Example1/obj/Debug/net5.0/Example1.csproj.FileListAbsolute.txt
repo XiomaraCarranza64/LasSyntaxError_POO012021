@@ -1,0 +1,16 @@
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\bin\Debug\net5.0\Example1.exe
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\bin\Debug\net5.0\Example1.deps.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\bin\Debug\net5.0\Example1.runtimeconfig.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\bin\Debug\net5.0\Example1.runtimeconfig.dev.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\bin\Debug\net5.0\Example1.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\bin\Debug\net5.0\ref\Example1.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\bin\Debug\net5.0\Example1.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.csprojAssemblyReference.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.AssemblyInfoInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.AssemblyInfo.cs
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\ref\Example1.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\ACT_OPTATIVAS\INTRODUCCION_GITHUB\Example1\obj\Debug\net5.0\Example1.genruntimeconfig.cache
