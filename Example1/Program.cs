@@ -21,7 +21,7 @@ namespace Example1
 
         static int AddNumber(int a, int b)
         {
-            return a-b; 
+            return a - b; 
         }
     }
 }
