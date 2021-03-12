@@ -13,15 +13,15 @@ namespace Example1
             Console.Write("Type another whole number: ");
             b= Int32.Parse(Console.ReadLine()); 
             Console.WriteLine("LOADING... ");
-            Console.WriteLine($"Adding {a} + {b} equals {AddNumber(a,b)} ");
+            Console.WriteLine($"subtracting {a} - {b} equals {subtractNumber(a,b)} ");
 
 
 
         }
 
-        static int AddNumber(int a, int b)
+        static int subtractNumber(int a, int b)
         {
-            return a + b; 
+            return a - b; 
         }
     }
 }
