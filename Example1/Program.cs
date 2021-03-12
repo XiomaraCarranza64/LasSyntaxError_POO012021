@@ -6,22 +6,28 @@ namespace Example1
     {
         static void Main(string[] args)
         {
-            int a = 0; 
+            int a = 0;
             int b = 0; 
             Console.Write("Type a whole number: ");
             a= Int32.Parse(Console.ReadLine()); 
             Console.Write("Type another whole number: ");
             b= Int32.Parse(Console.ReadLine()); 
             Console.WriteLine("LOADING... ");
-            Console.WriteLine($"subtracting {a} - {b} equals {subtractNumber(a,b)} ");
+
+
+            Console.WriteLine($"Multiply {a} * {b} equals {MultiplicationNumber(a,b)} ");
+
 
 
 
         }
 
-        static int subtractNumber(int a, int b)
+
+
+        static int MultiplicationNumber(int a, int b)
         {
-            return a - b; 
+            return a*b; 
+
         }
     }
 }
